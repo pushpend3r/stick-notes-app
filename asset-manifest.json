@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stick-notes-app/static/css/main.e015c31a.css",
+    "main.js": "/stick-notes-app/static/js/main.f4ebc47f.js",
+    "index.html": "/stick-notes-app/index.html",
+    "main.e015c31a.css.map": "/stick-notes-app/static/css/main.e015c31a.css.map",
+    "main.f4ebc47f.js.map": "/stick-notes-app/static/js/main.f4ebc47f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e015c31a.css",
+    "static/js/main.f4ebc47f.js"
+  ]
+}
